@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\PatreonV2.0.csproj",
+  "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\PatreonV2.0.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2877,53 +2877,53 @@
   "RootNamespace": "PatreonV2.0",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Home\\Contact.cshtml",
-      "TargetPath": "Views\\Home\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Home\\About.cshtml",
-      "TargetPath": "Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_proto\\Server\\PatreonV2.0\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\teeki\\Desktop\\patreon_client_design\\Server\\PatreonV2.0\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
