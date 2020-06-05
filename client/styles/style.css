@@ -1,0 +1,17 @@
+
+body {
+  background-color: #222226;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.main {
+  max-width: 1000px;
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+  background-color:#18181b;
+}
