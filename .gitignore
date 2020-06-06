@@ -1,7 +1,6 @@
 /Server/.vs
 /Server/PatreonV2.0/obj
 /Server/PatreonV2.0/bin
-Server/
 /node_modules
 *.json
 *.cache
