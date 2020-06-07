@@ -5,3 +5,4 @@
 *.json
 *.cache
 /dist
+.idea/
